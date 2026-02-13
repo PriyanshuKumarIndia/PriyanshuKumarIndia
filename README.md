@@ -140,20 +140,7 @@ const priyanshu = {
 
 <!-- Custom Quote Card -->
 <div align="center">
-  <table width="700">
-    <tr>
-      <td align="center">
-        <br />
-        <h2 align="center">
-          <div class="quote">“ Let the <span class="highlight">code</span> decide. ”</div>
-        </h2>
-        <p align="center">
-          <i>— Priyanshu Kumar</i>
-        </p>
-        <br />
-      </td>
-    </tr>
-  </table>
+  <img src="quote.svg" width="700" alt="Let the code decide - Priyanshu Kumar" />
 </div>
 
 
