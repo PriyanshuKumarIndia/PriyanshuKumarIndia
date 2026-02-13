@@ -122,7 +122,14 @@ const priyanshu = {
 
 </div>
 
-<h2>🏆 Achievements & Certifications</h2><div align="center"> <p> <img src="https://img.shields.io/badge/LeetCode-450%2B_Days_Streak_🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> <img src="https://img.shields.io/badge/GeeksforGeeks-3⭐_(1850)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> <img src="https://img.shields.io/badge/CodeChef-1567-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> <img src="https://img.shields.io/badge/HackerRank-5⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /> </p> <p> <img src="https://img.shields.io/badge/IBM-Full_Stack_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-React.js_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /> </p> </div>
+<h2>🏆 Achievements & Certifications</h2>
+<div align="center"> 
+<p><a href="https://leetcode.com/u/PriyanshuKumar429/"> <img src="https://img.shields.io/badge/LeetCode-450%2B_Days_Streak_🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/user_6oq8yqzfc8a/"><img src="https://img.shields.io/badge/GeeksforGeeks-3⭐_(1850)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/cunnp_5185"><img src="https://img.shields.io/badge/CodeChef-1567-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/priyanshurazz4"><img src="https://img.shields.io/badge/HackerRank-5⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> </p>
+<p><a href="https://coursera.org/share/8074b1ce3d6307c5832110e9122d5bbd"> <img src="https://img.shields.io/badge/IBM-Full_Stack_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<a href="https://coursera.org/share/1a3f12e4fd51f31833b2e6ae6e0a8179"><img src="https://img.shields.io/badge/Coursera-React.js_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a> </p> </div>
 
 ## 📊 GitHub Stats
 
