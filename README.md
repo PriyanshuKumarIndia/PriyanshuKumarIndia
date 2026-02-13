@@ -1,30 +1,173 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
-<img align="right" alt="coding" width="280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGEwYjB5ZGI0NzE1MTh3cWQzYWN5eHg3MHliZm1mY3ppdTgzM2VjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshukumarindia&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshukumarindia" /> </p>
+<div align="center">
 
+```
+██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
+██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
+██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
+██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
+██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+```
 
-- 🌱 I’m currently learning **React.js**
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%94%A5;DSA+%26+Systems+Thinker+%F0%9F%A7%A0" alt="Typing SVG" />
+</h1>
 
-- 💬 Ask me about **JavaScript and DSA**
-
-- 📫 How to reach me **priyanshurazz4@gmail.com**
-
-- ⚡ Fun fact **I am too lazyy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/error_priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_priyanshu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cunnp_5185" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cunnp_5185" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshukumar429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshukumar429" height="30" width="40" /></a>
+<p>
+  <a href="mailto:priyanshurazz4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/priyanshurazz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/priyanshukumar429"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/cunnp_5185"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://instagram.com/error_priyanshu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=priyanshukumarindia&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshukumarindia&show_icons=true&locale=en&layout=compact" alt="priyanshukumarindia" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshukumarindia&show_icons=true&locale=en" alt="priyanshukumarindia" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukumarindia&" alt="priyanshukumarindia" /></p>
+## `$ whoami`
+
+```ts
+const priyanshu = {
+  name        : "Priyanshu Kumar",
+  location    : "Bengaluru, Karnataka 🇮🇳",
+  education   : "B.E. Computer Science @ Chandigarh University (2021–2025)",
+  role        : "SDE Intern @ Dealermatix Technologies",
+  focus       : ["Full-Stack Development", "System Design", "DSA"],
+  currentStack: ["React.js", "Node.js", "Express.js", "MongoDB", "PostgreSQL"],
+  funFact     : "450+ day LeetCode streak — powered by coffee ☕ and chaos 🤙",
+};
+```
+
+---
+
+## `$ cat experience.log`
+
+### 💼 Dealermatix Technologies — *SDE Intern* `Jan 2025 – Jul 2025`
+- Built **5+ enterprise-grade React.js components**, slashing re-renders and boosting responsiveness
+- Integrated React frontend with **Salesforce APIs (Apex, LWC)** for real-time data synchronization
+- Refactored legacy modules using **modular architecture & OOP** for cleaner, maintainable code
+- Shipped full-stack features in an **Agile cross-functional team** within planned sprints
+
+### 💼 SparkIT Solutions — *Frontend Developer Intern* `Aug 2024 – Nov 2024`
+- Developed **dynamic, responsive web apps** with React.js for enhanced UX and scalability
+- Implemented secure auth flows using **React Hooks, Context API & Redux**
+- Connected **REST APIs** for real-time data updates between frontend and backend services
+
+---
+
+## `$ ls ./projects`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏗️ Social Media Backend Architecture</h3>
+      <p>Scalable RESTful API with <strong>Node.js, Express & MongoDB</strong> managing 6+ social graph entities. Features JWT auth, Bcrypt, real-time analytics via Aggregation Pipelines, and async media handling with Multer & Cloudinary.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🗳️ Decentralized Voting System</h3>
+      <p>Blockchain-based voting platform with a responsive <strong>React.js</strong> frontend, integrated with <strong>Ethereum Smart Contracts & Web3.js</strong>. Features MetaMask wallet connection with comprehensive error handling for gas and transaction flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `$ cat skills.json`
+
+<div align="center">
+
+**⚡ Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**🔧 Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🛠️ Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat achievements.txt`
+
+| 🏆 Platform | 📊 Achievement |
+|---|---|
+| 🟢 **GeeksForGeeks** | 3-Star · 1850 Rating |
+| 🟡 **CodeChef** | 1567 Rating |
+| 🟠 **LeetCode** | **450+ Day Streak** 🔥 |
+| 🟣 **HackerRank** | 5-Star |
+| 🎓 **IBM** | Full Stack Developer Certification |
+| ⚛️ **Coursera** | React.js Specialization |
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshukumarindia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumarindia&layout=compact&theme=tokyonight&border_radius=12"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukumarindia&theme=tokyonight&border_radius=12" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshukumarindia&theme=tokyo-night&radius=12&hide_border=false" />
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**Let's build something remarkable together.**
+
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshurazz4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshurazz)
+
+</div>
