@@ -122,20 +122,7 @@ const priyanshu = {
 
 </div>
 
----
-
-## 🏆 Achievements & Certifications
-
-| 🏆 Platform | 📊 Achievement |
-|---|---|
-| 🟢 **GeeksForGeeks** | 3-Star · 1850 Rating |
-| 🟡 **CodeChef** | 1567 Rating |
-| 🟠 **LeetCode** | **450+ Day Streak** 🔥 |
-| 🟣 **HackerRank** | 5-Star |
-| 🎓 **IBM** | Full Stack Developer Certification |
-| ⚛️ **Coursera** | React.js Specialization |
-
----
+<h2>🏆 Achievements & Certifications</h2><div align="center"> <p> <img src="https://img.shields.io/badge/LeetCode-450%2B_Days_Streak_🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> <img src="https://img.shields.io/badge/GeeksforGeeks-3⭐_(1850)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> <img src="https://img.shields.io/badge/CodeChef-1567-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> <img src="https://img.shields.io/badge/HackerRank-5⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /> </p> <p> <img src="https://img.shields.io/badge/IBM-Full_Stack_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-React.js_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /> </p> </div>
 
 ## 📊 GitHub Stats
 
@@ -151,11 +138,26 @@ const priyanshu = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                "Let the code decide"                 ║
-╚══════════════════════════════════════════════════════╝
-```
+<!-- Custom Quote Card -->
+<div align="center">
+  <table width="700">
+    <tr>
+      <td align="center">
+        <br />
+        <h2 align="center">
+          <div class="quote">“ Let the <span class="highlight">code</span> decide. ”</div>
+        </h2>
+        <p align="center">
+          <i>— Priyanshu Kumar</i>
+        </p>
+        <br />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </picture> </div>
 
 **Let's build something remarkable together.**
 
