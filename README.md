@@ -1,16 +1,7 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
-██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
-██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
-██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
-██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
-```
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%94%A5;DSA+%26+Systems+Thinker+%F0%9F%A7%A0" alt="Typing SVG" />
+<h1>👋 Hey, I'm Priyanshu Kumar</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%E2%9A%A1;DSA+%26+Systems+Thinker+%F0%9F%A7%A0" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -27,14 +18,14 @@
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
 ```ts
 const priyanshu = {
   name        : "Priyanshu Kumar",
   location    : "Bengaluru, Karnataka 🇮🇳",
   education   : "B.E. Computer Science @ Chandigarh University (2021–2025)",
-  role        : "SDE Intern @ Dealermatix Technologies",
+  role        : "Full-Stack Developer 🚀",
   focus       : ["Full-Stack Development", "System Design", "DSA"],
   currentStack: ["React.js", "Node.js", "Express.js", "MongoDB", "PostgreSQL"],
   funFact     : "450+ day LeetCode streak — powered by coffee ☕ and chaos 🤙",
@@ -43,13 +34,7 @@ const priyanshu = {
 
 ---
 
-## `$ cat experience.log`
-
-### 💼 Dealermatix Technologies — *SDE Intern* `Jan 2025 – Jul 2025`
-- Built **5+ enterprise-grade React.js components**, slashing re-renders and boosting responsiveness
-- Integrated React frontend with **Salesforce APIs (Apex, LWC)** for real-time data synchronization
-- Refactored legacy modules using **modular architecture & OOP** for cleaner, maintainable code
-- Shipped full-stack features in an **Agile cross-functional team** within planned sprints
+## 💼 Experience
 
 ### 💼 SparkIT Solutions — *Frontend Developer Intern* `Aug 2024 – Nov 2024`
 - Developed **dynamic, responsive web apps** with React.js for enhanced UX and scalability
@@ -58,7 +43,7 @@ const priyanshu = {
 
 ---
 
-## `$ ls ./projects`
+## 🚀 Projects
 
 <table>
   <tr>
@@ -83,11 +68,23 @@ const priyanshu = {
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3>🐍 Multiplayer Snake Game</h3>
+      <p>Real-time multiplayer snake game built with <strong>Node.js, Socket.IO & HTML5 Canvas</strong>. Features solo and competitive modes, room-based matchmaking with unique codes, live score tracking, and a rematch system — all synced via WebSockets. <a href="https://snakegame-userend.onrender.com"><strong>🔗 Live Demo</strong></a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5 Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## `$ cat skills.json`
+## 🛠️ Skills
 
 <div align="center">
 
@@ -127,7 +124,7 @@ const priyanshu = {
 
 ---
 
-## `$ cat achievements.txt`
+## 🏆 Achievements & Certifications
 
 | 🏆 Platform | 📊 Achievement |
 |---|---|
@@ -140,12 +137,7 @@ const priyanshu = {
 
 ---
 
-## `$ git log --stats`
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshukumarindia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumarindia&layout=compact&theme=tokyonight&border_radius=12"/>
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukumarindia&theme=tokyonight&border_radius=12" />
@@ -161,7 +153,7 @@ const priyanshu = {
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."  ║
+║                "Let the code decide"                 ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
